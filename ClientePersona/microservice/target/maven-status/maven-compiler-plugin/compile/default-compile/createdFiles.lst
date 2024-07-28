@@ -1,0 +1,7 @@
+com\clientepersona\microservice\repository\ClienteRepository.class
+com\clientepersona\microservice\model\Cliente.class
+com\clientepersona\microservice\service\ClienteService.class
+com\clientepersona\microservice\model\Persona.class
+com\clientepersona\microservice\controller\ClienteController.class
+com\clientepersona\microservice\repository\PersonaRepository.class
+com\clientepersona\microservice\MicroserviceApplication.class
